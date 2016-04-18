@@ -1,3 +1,7 @@
+## 18 April 2016 - 1.1.4
+
+* Reverted Breaking Change to ESLint v2.
+
 ## 17 April 2016 - 1.1.3
 
 * Added CHANGELOG.md.
