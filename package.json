@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-seneca",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "ESLint config for seneca",
   "main": "lib/index.js",
   "license": "MIT",
@@ -8,7 +8,6 @@
   "contributors": [
     "Dean McDonnell (https://github.com/mcdonnelldean)"
   ],
-
   "homepage": "https://github.com/senecajs/eslint-config-seneca",
   "repository": {
     "type": "git",
@@ -23,7 +22,6 @@
     "eslint-plugin-hapi": "x.x.x",
     "eslint-plugin-standard": "1.x.x"
   },
-  "devDependencies": {},
   "keywords": [
     "seneca",
     "lint",
