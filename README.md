@@ -1,4 +1,5 @@
-# ![Logo][] eslint-config-seneca
+![Logo][]
+# eslint-config-seneca
 
 [![Npm][BadgeNpm]][Npm]
 [![Gitter][BadgeGitter]][Gitter]
@@ -50,7 +51,7 @@ Copyright (c) 2015-2016, Dean McDonnell and other contributors. Licensed under _
 [Gitter]: https://gitter.im/senecajs/seneca
 [Issue]: https://github.com/senecajs/eslint-config-seneca
 [Lic]: ./LICENSE
-[Logo]: ./logo.jpg
+[Logo]: http://senecajs.org/files/assets/seneca-icon.jpg
 [Npm]: https://www.npmjs.com/package/eslint-config-seneca
 [Org]: https://github.com/senecajs
 [Sponsor]: http://nearform.com
