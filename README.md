@@ -6,8 +6,8 @@
 
 - __Sponsor__: [nearForm][Sponsor]
 
-A config for eslint that adheres to the Seneca org linting guidelines. All applicable
-repos within the Senecajs org must be linted using this config.
+A config for ESLint that adheres to Seneca's linting guidelines. All applicable repos
+within the Senecajs org must be linted using this config.
 
 If you're using this config, and need help, you can:
 
@@ -18,14 +18,16 @@ If you're using this config, and need help, you can:
 ## Install
 To install, simply use npm,
 
-```
+```bash
 npm install eslint-config-seneca eslint-plugin-standard eslint-plugin-hapi
 ```
+
+__Note:__ If you are using ESLint v1 use v1.x.x. If you are using ESLint v2 use 2.x.x.
 
 ## Usage
 Create an `.eslintrc` file with the following contents.
 
-```
+```json
 {
   "extends": "seneca"
 }
@@ -34,7 +36,7 @@ Create an `.eslintrc` file with the following contents.
 Once created ESLint will auto load the config when you next lint.
 
 ## Contributing
-The [SenecaJs org][Org] encourages __open__ and __safe__ participation.
+The [Senecajs Organization][Org] encourages __open__ and __safe__ participation.
 
 - __[Code of Conduct][CoC]__
 
@@ -53,6 +55,6 @@ Copyright (c) 2015-2016, Dean McDonnell and other contributors. Licensed under _
 [Lic]: ./LICENSE
 [Logo]: http://senecajs.org/files/assets/seneca-logo.jpg
 [Npm]: https://www.npmjs.com/package/eslint-config-seneca
-[Org]: https://github.com/senecajs
+[Org]: https://github.com/senecajs/issues
 [Sponsor]: http://nearform.com
 [Tweet]: https://twitter.com/senecajs
