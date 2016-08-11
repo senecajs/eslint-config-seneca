@@ -1,14 +1,22 @@
 {
   "name": "eslint-config-seneca",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ESLint config for seneca",
-  "main": "lib/index.js",
   "license": "MIT",
-  "author": "Wyatt Preul",
+  "author": "Wyatt Preul (https://github.com/geek)",
   "contributors": [
-    "Dean McDonnell (https://github.com/mcdonnelldean)"
+    "Dean McDonnell (https://github.com/mcdonnelldean)",
+    "Damien Feugas (https://github.com/feugy)",
+    "Cristian Kiss (https://github.com/ckiss)",
+    "Adrien Becchis (https://github.com/AdrieanKhisbe)"
   ],
-  "homepage": "https://github.com/senecajs/eslint-config-seneca",
+  "keywords": [
+    "seneca",
+    "lint",
+    "eslint",
+    "config"
+  ],
+  "homepage": "http://senecajs.org",
   "repository": {
     "type": "git",
     "url": "https://github.com/senecajs/eslint-config-seneca.git"
@@ -16,16 +24,9 @@
   "bugs": {
     "url": "https://github.com/senecajs/eslint-config-seneca/issues"
   },
-  "license": "MIT",
-  "scripts": {},
+  "main": "lib/index.js",
   "peerDependencies": {
     "eslint-plugin-hapi": "x.x.x",
-    "eslint-plugin-standard": "1.x.x"
-  },
-  "keywords": [
-    "seneca",
-    "lint",
-    "eslint",
-    "eslintconfig"
-  ]
+    "eslint-plugin-standard": "x.x.x"
+  }
 }
