@@ -14,7 +14,8 @@
     "seneca",
     "lint",
     "eslint",
-    "config"
+    "config",
+    "lab"
   ],
   "homepage": "http://senecajs.org",
   "repository": {
