@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-seneca",
+  "name": "@seneca/eslint-config",
   "version": "3.0.0",
   "description": "ESLint config for seneca",
   "license": "MIT",
@@ -29,5 +29,8 @@
   "peerDependencies": {
     "eslint-plugin-hapi": "x.x.x",
     "eslint-plugin-standard": "x.x.x"
+  },
+  "scripts": {
+    "test": "echo \"no tests\""
   }
 }
